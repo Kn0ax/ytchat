@@ -1,0 +1,8 @@
+node_modules
+.wrangler-output
+.dev.vars
+bun.lockb
+.DS_Store
+
+# Local Netlify folder
+.netlify

@@ -1,0 +1,5 @@
+# Example environment variables for local development
+# Copy this file to .dev.vars and fill in your values
+
+# Add any API keys or secrets here
+# SECRET_KEY="your-secret-key"
